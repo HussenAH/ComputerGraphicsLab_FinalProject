@@ -1,0 +1,28 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0a1c64640e35b4d309616760e5d75af5
+# Starting compiling UnityEngine.UI.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bec2e28892164405a97ef683f47f54c2
+# Starting compiling UnityEditor.TestRunner.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4fa6b8273502448188e75d15c41895da
+# Starting compiling UnityEditor.UI.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3a963b87b89ab4a5f9e3ba3760529bdf
+# Starting compiling Unity.Services.Core.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-41fa790fb5c974e0e95d29756ccbc3e7
+# Starting compiling Unity.VSCode.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6d22f355d839b4db3a3854fba2ec3dca
+# Starting compiling Unity.VisualStudio.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5886c3b9634a3422db485efaf4554860
+# Starting compiling Unity.Timeline.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c48dd8cf920844e02a102a994c97ee10
+# Starting compiling Unity.TextMeshPro.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e2b1960b01d814065837b05e9c492aac
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7f21194c26eb04a6eb6fb2888f713396
+# Starting compiling Unity.Rider.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-82faee689c4e14bbabcd1dc9a5e19529
+# Starting compiling Unity.Timeline.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5e0d15072b0364befaa0b1bd8925ebd5
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-67cbc6301577a4a47aa7615059be2d1d
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/Users/hussenabuhamad/OneDrive - University of Haifa/Git/2020.3.22f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6fcb22b3c431245289d599fdeca1aaa8
