@@ -9,3 +9,12 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
+
+**/Artifacts/
+**/*Cache*/
+**/Logs
+**/Temp/
+*.log
+*.hash
+
+*cache*
