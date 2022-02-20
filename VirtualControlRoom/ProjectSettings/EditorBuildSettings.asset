@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MyRoom_XR_Camera.unity
+    guid: ba7b6d0ea240f4504a9d0bed4799e111
+  - enabled: 0
+    path: Assets/Samples/MRTK_Interaction.unity
+    guid: a6fe910868c1843a3aa0942468d8ad7a
+  - enabled: 0
+    path: Assets/Samples/MRTK_Interaction2.unity
+    guid: 3bee6601a7fa940d1a7d79ce8479ab3d
+  - enabled: 0
+    path: Assets/Scenes/My_MRTK2.unity
+    guid: 9004ed72fff4d48abb835bcf26a471a4
+  - enabled: 0
+    path: Assets/Scenes/MyRoom_MRTK3.unity
+    guid: f72ae7bfd8d9046a393cbb17f7cac24e
+  - enabled: 0
+    path: Assets/Scenes/MyRoom_MRTK4.unity
+    guid: 0eb9ec721fb88401a8e58a954f6e9b75
+  - enabled: 0
+    path: Assets/Scenes/HaifaUniVirtualControlRoom.unity
+    guid: ac4e80533c8a846f98344fbb96d78165
+  - enabled: 0
+    path: Assets/Scenes/UnivContRoomDev/HaifaUniVirtualControlRoom_2.unity
+    guid: 01104853e215d4ba69c8b6eb4ac67c92
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Scenes/UnivContRoomDev/HaifaUniVirtualControlRoom_3.unity
+    guid: 991c686d8dbcc448f924a3792f0c8f67
+  - enabled: 1
+    path: Assets/Scenes/UnivContRoomDev/HaifaUniVirtualControlRoom_4.unity
+    guid: 6b51210bdae444e508a9fa39e7668617
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed284f08d952e41da857b600c718f83e, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0284ab88e5014403fa4461844c1d05f8, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 618bd84b0e3b04ab087ec95c963c2256, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 35b7ed4a129014c2889761d7f5b182be, type: 2}
